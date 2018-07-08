@@ -1,7 +1,8 @@
-This is a fork of Honeypot Captcha compatible with Rails 5.
+This is a fork of Honeypot Captcha compatible with Rails 5.1.
 
-Changes:
+PRs:
 - [Removes alias_method_chain](https://github.com/curtis/honeypot-captcha/pull/16)
+- [Fix deprecated prepend_before_filter](https://github.com/curtis/honeypot-captcha/pull/18)
 
 ---
 
