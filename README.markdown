@@ -1,3 +1,10 @@
+This is a fork of Honeypot Captcha compatible with Rails 5.
+
+Changes:
+- [Removes alias_method_chain](https://github.com/curtis/honeypot-captcha/pull/16)
+
+---
+
 # Honeypot Captcha
 
 **The simplest way to add honeypot captchas in your Rails forms.**
